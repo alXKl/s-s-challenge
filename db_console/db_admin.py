@@ -1,10 +1,10 @@
 import pymysql
 import csv
 
-endpoint = 'xxxxxxxxxxxxxxxxx'
-username = 'xxxxxxxxxx'
-password = 'xxxxxxxxxx'
-database_name = 'xxxxxxxxxxxx'
+endpoint = 'xxxxxxxxx'
+username = 'xxxxxxxxx'
+password = 'xxxxxxxxx'
+database_name = 'xxxxxxxxx'
 
 connection = pymysql.connect(host=endpoint, user=username, passwd=password, db=database_name)
 
