@@ -1,7 +1,7 @@
 import pymysql
 
-endpoint = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-database_name = 'xxxxxxxxxxxxxxxxxxxxxxxx'
+endpoint = 'xxxxxxxxxxxxx'
+database_name = 'xxxxxxxxxxxxx'
 
 
 def session():
