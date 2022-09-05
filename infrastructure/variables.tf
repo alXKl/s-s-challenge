@@ -1,6 +1,6 @@
 variable "account_id" {
  type = string
- default = "348555763414"
+ default = "xxxxxxxxxxxxx"
 }
 
 variable "region" {
@@ -30,12 +30,12 @@ variable "networks" {
 variable "db_username" {
  description = "The username for the DB master user"
  type        = string
- default = "dbmaster"
+ default = "xxxxxxxxx"
  sensitive = true
 }
 variable "db_password" {
  description = "The password for the DB master user"
  type        = string
- default = "Pass1234"
+ default = "xxxxxxxxxx"
  sensitive = true
 }
